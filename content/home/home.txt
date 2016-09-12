@@ -1,0 +1,52 @@
+Title: Michael Morgan | Portfolio
+
+----
+
+Text: 
+
+----
+
+About-text: 
+
+#About
+(image: mm.jpg)
+Front-end engineer with a passion for developing seamless UI & UX with clean, concise code.
+
+----
+
+Resume-text: 
+
+#Resume
+
+###Objective:
+Work with a talented engineering team to deliver great code for an awesome product. Ideally, working with an agile team on a web application or Saas product.
+
+###Work experience:
+Sept. 2015 - Present
+<b>Company:</b> Light 
+<b>Type: </b>Hardware start-up
+<b>Role:</b> Front-End Developer
+
+August 2014 - Sept 2015
+<b>Company:</b> Imaginuity
+<b>Type:</b> Web Agency
+<b>Role:</b> Front-End Developer
+
+August 2013 - August 2014
+<b>Company:</b> Black Book Ink
+<b>Type:</b> Ad Agency
+
+###Technical skills:
+HTML/CSS
+Javascript
+React.js
+jQuery
+PHP
+Git
+Ajax
+JSON
+Love exploring WebGL, Three.js and other immersive 3D libraries
+Experience with D3.js, and animating SVG for visualization
+
+###Education
+BFA in New Media, University of North Texas
